@@ -2,10 +2,11 @@
 Randomizer es un programa simple en Python diseñado para generar una lista de números aleatorios no repetidos dentro de un rango específico.
 
 ### Indice
-* [Que es list_factorial?](#que-es-list_factorial)
+* [Que es Randomizer?](#que-es-Randomizer)
 * [Que utilizamos?](#que-utilizamos)
 * [Como funciona?](#como-funciona)
 * [Como utilizamos la función?](#como-utilizamos-la-función)
+* [Ejemplos:](#Ejemplos)
 
 ## ¿Qué es Randomizer?
 
@@ -52,14 +53,57 @@ Este enfoque garantiza la aleatoriedad, la no repetición y la flexibilidad en l
 
 ## ¿Cómo utilizamos la función?
 
-1. Descarga el código fuente o clona el repositorio.
+Para aprovechar al máximo el Generador Utilitario de Números Aleatorios, sigue estos pasos:
 
-2. Abre una terminal y navega al directorio donde se encuentra el programa.
+1. **Clonar el Repositorio:**
+   - Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
 
-3. Ejecuta el programa con el siguiente comando:
+     ```bash
+     git clone https://github.com/gjmacias/randomizator
+     cd randomizator
+     ```
+   - Esto descargará el código fuente del generador en tu máquina.
 
-   ```bash
-   python randomizer.py
+2. **Asignar Permisos de Ejecución:**
+
+   - Asigna permisos de ejecución al script con uno de los siguientes comandos:
+
+     ```bash
+     chmod +x randomizer.py   ||   chmod 755 randomizer.py
+     ```
+   
+   Esto permite que el sistema ejecute el script.
+
+3. **Ejecutar el Generador:**
+   - Inicia el programa escribiendo:
+
+     ```bash
+     python randomizer.py   ||   ./randomizer
+     ```
+   - Asegúrate de tener Python instalado en tu sistema. Si no lo tienes, puedes obtenerlo en el sitio web de Python
+   - Experimenta con diferentes combinaciones para adaptar el generador a tus necesidades.
+
+## Ejemplos:
+
+      Please, insert first limit: 1
+      Please, insert second limit: 10
+      Please, insert the quantity of numbers to show: 5
+      Enter the separator (default ', '): 
+      Select numbers : 5, 3, 8, 1, 10
+---
+      Please, insert first limit: -100
+      Please, insert second limit: 100
+      Please, insert the quantity of numbers to show: 10
+      Enter the separator (default ', '): |
+      Select numbers : 68|89|-35|-25|-46|-95|-60|38|-14|-10
+---
+      Please, insert first limit: 20
+      Please, insert second limit: 50
+      Please, insert the quantity of numbers to show: 3
+      Enter the separator (default ', '):  
+      Select numbers : 36, 23, 26
+
+¡Ahora estás listo para explorar y disfrutar de los números sorpresa! 🎲
 
 # Quizás pueda interesarte!
 
