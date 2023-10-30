@@ -114,7 +114,7 @@ Para aprovechar al máximo el Generador Utilitario de Números Aleatorios, sigue
 [AQUÍ](https://profile.intra.42.fr/users/gmacias-)
 
 ### - Mis proyectos personales 🧐
-[AQUÍ🗒️](https://github.com/gjmacias/autoproyectos)
+[AQUÍ](https://github.com/gjmacias/autoproyectos)
 
 # Contacto 📥
 
