@@ -2,8 +2,8 @@
 Randomizer es un programa simple en Python diseñado para generar una lista de números aleatorios no repetidos dentro de un rango específico.
 
 ### Indice
-* [¿Qué es Randomizer?](#que-es-Randomizer)
-* [¿Qué utilizamos?](#que-utilizamos)
+* [¿Qué es Randomizer?](#qué-es-Randomizer)
+* [¿Qué utilizamos?](#qué-utilizamos)
 * [¿Cómo funciona?](#Cómo-funciona)
 * [¿Cómo utilizamos la función?](#Cómo-utilizamos-la-función)
 * [Ejemplos:](#Ejemplos)
